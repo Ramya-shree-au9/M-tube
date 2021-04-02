@@ -1,0 +1,14 @@
+.sidebar{
+    background-color: rgba(0, 0, 0, 0.301);
+    height: 100vh;
+    margin-left: 5%;
+    
+}
+
+.sidebar ul{
+    list-style: none;
+ }
+
+ .sidebar li{
+     padding:5%
+ }
